@@ -25,7 +25,7 @@ if( ! class_exists( 'ALCES2Updater' ) ) {
 			$remote = get_transient($this->cache_key);
 			if(false === $remote || ! $this->cache_allowed) {
 				$remote = wp_remote_get(
-					'https://plugins.artslabcreatives.com/artslab-elementor-select2-control/updates/update.json',
+					'https://plugins.artslabcreatives.com/elementor-select2-control-artslab/updates/update.json',
 					array(
 						'timeout' => 10,
 						'headers' => array(
@@ -116,7 +116,7 @@ if( ! class_exists( 'ALCES2Updater' ) ) {
 			) {
 				$res = new stdClass();
 				$res->slug = $this->plugin_slug;
-				$res->plugin = 'mintpay-payment-discounts/mintpay-payment-discounts.php';//plugin_basename(__FILE__); // misha-update-plugin/misha-update-plugin.php
+				$res->plugin = basename(dirname(__FILE__)).'/elementor-select2-control-artslab.php';
 				$res->new_version = $remote->version;
 				$res->tested = $remote->tested;
 				$res->package = $remote->download_url;

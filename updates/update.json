@@ -1,10 +1,10 @@
 {
 	"name" : "Elementor Select2 Control",
-	"slug" : "artslab-elementor-select2-control",
+	"slug" : "elementor-select2-control-artslab",
 	"author" : "<a href='https://artslabcreatives.com'>Miyuru Dharmage</a>",
 	"author_profile" : "http://profiles.wordpress.org/voxsar",
 	"version" : "2.0",
-	"download_url" : "https://plugins.artslabcreatives.com/artslab-elementor-select2-control/updates/elementor-select2-control.zip",
+	"download_url" : "https://plugins.artslabcreatives.com/elementor-select2-control-artslab/updates/elementor-select2-control-artslab.zip",
 	"requires" : "3.0",
 	"tested" : "5.8",
 	"requires_php" : "5.3",

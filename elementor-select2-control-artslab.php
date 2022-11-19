@@ -6,7 +6,7 @@
  * Version:     1.0.0
  * Author:      Artslab Creatives
  * Author URI:  https://plugins.artslabcreatives.com
- * Text Domain: artslab-elementor-select2-control
+ * Text Domain: elementor-select2-control-artslab
  *
  * Elementor tested up to: 3.7.0
  * Elementor Pro tested up to: 3.7.0
