@@ -8,6 +8,12 @@ Adds a custom select2 control to the default elmentor form
 
 We are a digital media agency that believes, through proper strategy formulation, the right amount of creativity and innovation, a brand can truly come to life, communicate and create bonds at an emotional level with their target audience.
 
+<p align="center"><a href="https://elementor.com" target="_blank"><img src="https://plugins.artslabcreatives.com/elementor-select2-control/updates/elementor.svg" width="400"></a></p>
+
+## Elementor
+
+Introducing a WordPress website builder, with no limits of design. A website builder that delivers high-end page designs and advanced capabilities, never before seen on WordPress.
+
 <p align="center">
 <a href="https://www.travis-ci.com/artslabcreatives/demoartslab"><img src="https://www.travis-ci.com/artslabcreatives/demoartslab.svg?token=4xH2xquRqoL8En2ih4LX&branch=master" alt="Build Status"></a>
 <a href=""><img alt="GitHub code size in bytes" src="https://badges.artslabcreatives.com:89/github/languages/code-size/artslabcreatives/demoartslab"></a>
