@@ -25,7 +25,7 @@ if( ! class_exists( 'ALCES2Updater' ) ) {
 			$remote = get_transient($this->cache_key);
 			if(false === $remote || ! $this->cache_allowed) {
 				$remote = wp_remote_get(
-					'https://plugins.artslabcreatives.com/elementor-select2-control/updates/update.json',
+					'https://plugins.artslabcreatives.com/artslab-elementor-select2-control/updates/update.json',
 					array(
 						'timeout' => 10,
 						'headers' => array(

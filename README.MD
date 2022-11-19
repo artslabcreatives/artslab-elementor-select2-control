@@ -8,7 +8,7 @@ Adds a custom select2 control to the default elmentor form
 
 We are a digital media agency that believes, through proper strategy formulation, the right amount of creativity and innovation, a brand can truly come to life, communicate and create bonds at an emotional level with their target audience.
 
-<p align="center"><a href="https://elementor.com" target="_blank"><img src="https://plugins.artslabcreatives.com/elementor-select2-control/updates/elementor.svg" width="400"></a></p>
+<p align="center"><a href="https://elementor.com" target="_blank"><img src="https://plugins.artslabcreatives.com/artslab-elementor-select2-control/updates/elementor.svg" width="400"></a></p>
 
 ## Elementor
 
