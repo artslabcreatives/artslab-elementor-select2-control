@@ -56,7 +56,12 @@ class Elementor_Select2_Field extends \ElementorPro\Modules\Forms\Fields\Field_B
 		$form->add_render_attribute(
 			'select' . $item_index,
 			[
-				'class' => 'elementor-field-textual select2',
+				'name' => 'form_fields['.$item['custom_id'].']',
+				'class' =>  [
+					'elementor-field-textual',
+					'select2',
+					'elementor-size-' . $item['input_size'],
+				],
 				'for' => $form_id . $item_index,
 				'type' => 'select',
 				'inputmode' => 'numeric',
