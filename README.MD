@@ -15,11 +15,10 @@ We are a digital media agency that believes, through proper strategy formulation
 Introducing a WordPress website builder, with no limits of design. A website builder that delivers high-end page designs and advanced capabilities, never before seen on WordPress.
 
 <p align="center">
-<a href="https://www.travis-ci.com/artslabcreatives/demoartslab"><img src="https://www.travis-ci.com/artslabcreatives/demoartslab.svg?token=4xH2xquRqoL8En2ih4LX&branch=master" alt="Build Status"></a>
-<a href=""><img alt="GitHub code size in bytes" src="https://badges.artslabcreatives.com:89/github/languages/code-size/artslabcreatives/demoartslab"></a>
-<a href=""><img alt="GitHub" src="https://badges.artslabcreatives.com:89/github/license/artslabcreatives/demoartslab"></a>
-<a href=""><img alt="GitHub tag (latest by date)" src="https://badges.artslabcreatives.com:89/github/v/tag/artslabcreatives/demoartslab?label=version"></a>
-<a href=""><img alt="GitHub release (latest by date)" src="https://badges.artslabcreatives.com:89/github/v/release/artslabcreatives/demoartslab"></a>
+<a href=""><img alt="" src="https://github.com/artslabcreatives/artslab-elementor-select2-control/actions/workflows/master.yml/badge.svg"></a>
+<a href=""><img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/artslabcreatives/artslab-elementor-select2-control"></a>
+<a href=""><img alt="GitHub" src="https://img.shields.io/github/license/artslabcreatives/artslab-elementor-select2-control"></a>
+<a href=""><img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/artslabcreatives/artslab-elementor-select2-control"></a>
 </p>
 
 ## Requirements
